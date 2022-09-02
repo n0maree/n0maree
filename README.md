@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @n0maree
 - 👀 I’m interested in automation and space
-- 🌱 I’m currently learning how to do better
+- 🌱 I’m currently learning how to code in web3
 - 💞️ I’m looking to collaborate on lots of coding, its the future
 - 📫 How to reach me entreprenuer3000@gmail.com
 
